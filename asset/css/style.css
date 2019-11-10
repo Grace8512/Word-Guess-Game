@@ -1,0 +1,38 @@
+/* * {
+    box-sizing: border-box;
+  } */
+
+  h1{
+    font-style: bold;
+    font-size: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+ 
+  }
+  
+  body{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    overflow: auto;
+    min-height: 100%;
+    background-color: skyblue;
+    margin: 30px;
+
+  }
+  #img {
+    align-content: center;
+    margin-bottom: 20px;
+  }
+  
+  table{
+    align-content: center;
+    /* border: 2px solid black; */
+    width: 300px;
+    height: 500px;
+    margin: auto;
+  }
+  #tr-two{
+    font-size: 20px;
+  }
+  p{
+    margin-bottom: 10px;
+  }
